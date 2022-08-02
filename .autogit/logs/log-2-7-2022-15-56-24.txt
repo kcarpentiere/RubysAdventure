@@ -1,0 +1,771 @@
+-------------------- Auto-Git Log --------------------
+Tue Aug 02 2022 15:56:24 GMT-0400 (Eastern Daylight Time)
+------------------------------------------------------
+
+Modified files:
+* README.md
+
+
+Created files:
+* .autogit/autogit.json
+* .vscode/settings.json
+* Assets/2DBeginner_Third-PartyNotice.txt
+* Assets/2DBeginner_Third-PartyNotice.txt.meta
+* Assets/Art.meta
+* Assets/Art/Animations.meta
+* Assets/Art/Animations/AnimationClips.meta
+* Assets/Art/Animations/AnimationClips/AmmoCollectibles.anim
+* Assets/Art/Animations/AnimationClips/AmmoCollectibles.anim.meta
+* Assets/Art/Animations/AnimationClips/Enemy.meta
+* Assets/Art/Animations/AnimationClips/Enemy/MrClockworkFixed.anim
+* Assets/Art/Animations/AnimationClips/Enemy/MrClockworkFixed.anim.meta
+* Assets/Art/Animations/AnimationClips/Enemy/MrClockworkRunDown.anim
+* Assets/Art/Animations/AnimationClips/Enemy/MrClockworkRunDown.anim.meta
+* Assets/Art/Animations/AnimationClips/Enemy/MrClockworkRunLeft.anim
+* Assets/Art/Animations/AnimationClips/Enemy/MrClockworkRunLeft.anim.meta
+* Assets/Art/Animations/AnimationClips/Enemy/MrClockworkRunRight.anim
+* Assets/Art/Animations/AnimationClips/Enemy/MrClockworkRunRight.anim.meta
+* Assets/Art/Animations/AnimationClips/Enemy/MrClockworkRunUp.anim
+* Assets/Art/Animations/AnimationClips/Enemy/MrClockworkRunUp.anim.meta
+* Assets/Art/Animations/AnimationClips/HealtCollectibles.anim
+* Assets/Art/Animations/AnimationClips/HealtCollectibles.anim.meta
+* Assets/Art/Animations/AnimationClips/JambiIdle.anim
+* Assets/Art/Animations/AnimationClips/JambiIdle.anim.meta
+* Assets/Art/Animations/AnimationClips/Player.meta
+* Assets/Art/Animations/AnimationClips/Player/RubyHitDown.anim
+* Assets/Art/Animations/AnimationClips/Player/RubyHitDown.anim.meta
+* Assets/Art/Animations/AnimationClips/Player/RubyHitLeft.anim
+* Assets/Art/Animations/AnimationClips/Player/RubyHitLeft.anim.meta
+* Assets/Art/Animations/AnimationClips/Player/RubyHitRight.anim
+* Assets/Art/Animations/AnimationClips/Player/RubyHitRight.anim.meta
+* Assets/Art/Animations/AnimationClips/Player/RubyHitUp.anim
+* Assets/Art/Animations/AnimationClips/Player/RubyHitUp.anim.meta
+* Assets/Art/Animations/AnimationClips/Player/RubyIdleDown.anim
+* Assets/Art/Animations/AnimationClips/Player/RubyIdleDown.anim.meta
+* Assets/Art/Animations/AnimationClips/Player/RubyIdleLeft.anim
+* Assets/Art/Animations/AnimationClips/Player/RubyIdleLeft.anim.meta
+* Assets/Art/Animations/AnimationClips/Player/RubyIdleRight.anim
+* Assets/Art/Animations/AnimationClips/Player/RubyIdleRight.anim.meta
+* Assets/Art/Animations/AnimationClips/Player/RubyIdleUp.anim
+* Assets/Art/Animations/AnimationClips/Player/RubyIdleUp.anim.meta
+* Assets/Art/Animations/AnimationClips/Player/RubyLaunchDown.anim
+* Assets/Art/Animations/AnimationClips/Player/RubyLaunchDown.anim.meta
+* Assets/Art/Animations/AnimationClips/Player/RubyLaunchLeft.anim
+* Assets/Art/Animations/AnimationClips/Player/RubyLaunchLeft.anim.meta
+* Assets/Art/Animations/AnimationClips/Player/RubyLaunchRight.anim
+* Assets/Art/Animations/AnimationClips/Player/RubyLaunchRight.anim.meta
+* Assets/Art/Animations/AnimationClips/Player/RubyLaunchUp.anim
+* Assets/Art/Animations/AnimationClips/Player/RubyLaunchUp.anim.meta
+* Assets/Art/Animations/AnimationClips/Player/RubyRunDown.anim
+* Assets/Art/Animations/AnimationClips/Player/RubyRunDown.anim.meta
+* Assets/Art/Animations/AnimationClips/Player/RubyRunLeft.anim
+* Assets/Art/Animations/AnimationClips/Player/RubyRunLeft.anim.meta
+* Assets/Art/Animations/AnimationClips/Player/RubyRunRight.anim
+* Assets/Art/Animations/AnimationClips/Player/RubyRunRight.anim.meta
+* Assets/Art/Animations/AnimationClips/Player/RubyRunUp.anim
+* Assets/Art/Animations/AnimationClips/Player/RubyRunUp.anim.meta
+* Assets/Art/Animations/Animators.meta
+* Assets/Art/Animations/Animators/CollectibleAmmo.controller
+* Assets/Art/Animations/Animators/CollectibleAmmo.controller.meta
+* Assets/Art/Animations/Animators/CollectibleHealth.controller
+* Assets/Art/Animations/Animators/CollectibleHealth.controller.meta
+* Assets/Art/Animations/Animators/Enemy.controller
+* Assets/Art/Animations/Animators/Enemy.controller.meta
+* Assets/Art/Animations/Animators/NPC.controller
+* Assets/Art/Animations/Animators/NPC.controller.meta
+* Assets/Art/Animations/Animators/Player.controller
+* Assets/Art/Animations/Animators/Player.controller.meta
+* Assets/Art/Animations/ThisOne.meta
+* Assets/Art/Animations/ThisOne/Bot.controller
+* Assets/Art/Animations/ThisOne/Bot.controller.meta
+* Assets/Art/Sprites.meta
+* Assets/Art/Sprites/Characters.meta
+* Assets/Art/Sprites/Characters/Jambi.anim
+* Assets/Art/Sprites/Characters/Jambi.anim.meta
+* Assets/Art/Sprites/Characters/Jambi.controller
+* Assets/Art/Sprites/Characters/Jambi.controller.meta
+* Assets/Art/Sprites/Characters/JambiSheet.png
+* Assets/Art/Sprites/Characters/JambiSheet.png.meta
+* Assets/Art/Sprites/Characters/MrClockworkSheet.png
+* Assets/Art/Sprites/Characters/MrClockworkSheet.png.meta
+* Assets/Art/Sprites/Characters/RubySheet.png
+* Assets/Art/Sprites/Characters/RubySheet.png.meta
+* Assets/Art/Sprites/Environmnent.meta
+* Assets/Art/Sprites/Environmnent/Damageable.png
+* Assets/Art/Sprites/Environmnent/Damageable.png.meta
+* Assets/Art/Sprites/Environmnent/DrainCover.png
+* Assets/Art/Sprites/Environmnent/DrainCover.png.meta
+* Assets/Art/Sprites/Environmnent/FloorBricksToGrassCorner.png
+* Assets/Art/Sprites/Environmnent/FloorBricksToGrassCorner.png.meta
+* Assets/Art/Sprites/Environmnent/FloorBricksToGrassSquare.png
+* Assets/Art/Sprites/Environmnent/FloorBricksToGrassSquare.png.meta
+* Assets/Art/Sprites/Environmnent/FloorGrassToBricksCorner.png
+* Assets/Art/Sprites/Environmnent/FloorGrassToBricksCorner.png.meta
+* Assets/Art/Sprites/Environmnent/FloorGrassToBricksSquare.png
+* Assets/Art/Sprites/Environmnent/FloorGrassToBricksSquare.png.meta
+* Assets/Art/Sprites/Environmnent/FloorWaterRoundCorners.png
+* Assets/Art/Sprites/Environmnent/FloorWaterRoundCorners.png.meta
+* Assets/Art/Sprites/Environmnent/FloorWaterSquareCorners.png
+* Assets/Art/Sprites/Environmnent/FloorWaterSquareCorners.png.meta
+* Assets/Art/Sprites/Environmnent/GrassSmall.png
+* Assets/Art/Sprites/Environmnent/GrassSmall.png.meta
+* Assets/Art/Sprites/Environmnent/House.png
+* Assets/Art/Sprites/Environmnent/House.png.meta
+* Assets/Art/Sprites/Environmnent/LotusFlower.png
+* Assets/Art/Sprites/Environmnent/LotusFlower.png.meta
+* Assets/Art/Sprites/Environmnent/Materials.meta
+* Assets/Art/Sprites/Environmnent/Materials/Damageable.mat
+* Assets/Art/Sprites/Environmnent/Materials/Damageable.mat.meta
+* Assets/Art/Sprites/Environmnent/Materials/House.mat
+* Assets/Art/Sprites/Environmnent/Materials/House.mat.meta
+* Assets/Art/Sprites/Environmnent/Materials/MetalCube.mat
+* Assets/Art/Sprites/Environmnent/Materials/MetalCube.mat.meta
+* Assets/Art/Sprites/Environmnent/MetalCube.png
+* Assets/Art/Sprites/Environmnent/MetalCube.png.meta
+* Assets/Art/Sprites/Environmnent/Mushrooms.png
+* Assets/Art/Sprites/Environmnent/Mushrooms.png.meta
+* Assets/Art/Sprites/Environmnent/TelegraphPost.png
+* Assets/Art/Sprites/Environmnent/TelegraphPost.png.meta
+* Assets/Art/Sprites/Environmnent/TreeBig1.png
+* Assets/Art/Sprites/Environmnent/TreeBig1.png.meta
+* Assets/Art/Sprites/Environmnent/TreeBig2.png
+* Assets/Art/Sprites/Environmnent/TreeBig2.png.meta
+* Assets/Art/Sprites/Environmnent/TreeBig3.png
+* Assets/Art/Sprites/Environmnent/TreeBig3.png.meta
+* Assets/Art/Sprites/Environmnent/TreeForeground.png
+* Assets/Art/Sprites/Environmnent/TreeForeground.png.meta
+* Assets/Art/Sprites/Environmnent/TreeLittle.png
+* Assets/Art/Sprites/Environmnent/TreeLittle.png.meta
+* Assets/Art/Sprites/Environmnent/TreeShadow.png
+* Assets/Art/Sprites/Environmnent/TreeShadow.png.meta
+* Assets/Art/Sprites/UI.meta
+* Assets/Art/Sprites/UI/CharacterPortrait.png
+* Assets/Art/Sprites/UI/CharacterPortrait.png.meta
+* Assets/Art/Sprites/UI/NPCPortrait.png
+* Assets/Art/Sprites/UI/NPCPortrait.png.meta
+* Assets/Art/Sprites/UI/UIBulletIcon.png
+* Assets/Art/Sprites/UI/UIBulletIcon.png.meta
+* Assets/Art/Sprites/UI/UIDialogueBox.png
+* Assets/Art/Sprites/UI/UIDialogueBox.png.meta
+* Assets/Art/Sprites/UI/UIHealthBar.png
+* Assets/Art/Sprites/UI/UIHealthBar.png.meta
+* Assets/Art/Sprites/UI/UIHealthFrame.png
+* Assets/Art/Sprites/UI/UIHealthFrame.png.meta
+* Assets/Art/Sprites/VFX.meta
+* Assets/Art/Sprites/VFX/CogBullet.png
+* Assets/Art/Sprites/VFX/CogBullet.png.meta
+* Assets/Art/Sprites/VFX/CollectibleAmmo.png
+* Assets/Art/Sprites/VFX/CollectibleAmmo.png.meta
+* Assets/Art/Sprites/VFX/CollectibleHealth.png
+* Assets/Art/Sprites/VFX/CollectibleHealth.png.meta
+* Assets/Art/Sprites/VFX/ParticleSpriteAtlas.png
+* Assets/Art/Sprites/VFX/ParticleSpriteAtlas.png.meta
+* Assets/Art/Sprites/VFX/ParticlesSprietAtlas.png
+* Assets/Art/Sprites/VFX/ParticlesSprietAtlas.png.meta
+* Assets/Art/Sprites/VFX/Shadow.png
+* Assets/Art/Sprites/VFX/Shadow.png.meta
+* Assets/Art/TilemapPalettes.meta
+* Assets/Art/TilemapPalettes/FloorBricksToGrassCorner0.asset
+* Assets/Art/TilemapPalettes/FloorBricksToGrassCorner0.asset.meta
+* Assets/Art/TilemapPalettes/FloorBricksToGrassCorner1.asset
+* Assets/Art/TilemapPalettes/FloorBricksToGrassCorner1.asset.meta
+* Assets/Art/TilemapPalettes/FloorBricksToGrassCorner2.asset
+* Assets/Art/TilemapPalettes/FloorBricksToGrassCorner2.asset.meta
+* Assets/Art/TilemapPalettes/FloorBricksToGrassCorner3.asset
+* Assets/Art/TilemapPalettes/FloorBricksToGrassCorner3.asset.meta
+* Assets/Art/TilemapPalettes/FloorBricksToGrassCorner4.asset
+* Assets/Art/TilemapPalettes/FloorBricksToGrassCorner4.asset.meta
+* Assets/Art/TilemapPalettes/FloorBricksToGrassCorner5.asset
+* Assets/Art/TilemapPalettes/FloorBricksToGrassCorner5.asset.meta
+* Assets/Art/TilemapPalettes/FloorBricksToGrassCorner6.asset
+* Assets/Art/TilemapPalettes/FloorBricksToGrassCorner6.asset.meta
+* Assets/Art/TilemapPalettes/FloorBricksToGrassCorner7.asset
+* Assets/Art/TilemapPalettes/FloorBricksToGrassCorner7.asset.meta
+* Assets/Art/TilemapPalettes/FloorBricksToGrassCorner8.asset
+* Assets/Art/TilemapPalettes/FloorBricksToGrassCorner8.asset.meta
+* Assets/Art/TilemapPalettes/FloorBricksToGrassSquare0.asset
+* Assets/Art/TilemapPalettes/FloorBricksToGrassSquare0.asset.meta
+* Assets/Art/TilemapPalettes/FloorBricksToGrassSquare1.asset
+* Assets/Art/TilemapPalettes/FloorBricksToGrassSquare1.asset.meta
+* Assets/Art/TilemapPalettes/FloorBricksToGrassSquare2.asset
+* Assets/Art/TilemapPalettes/FloorBricksToGrassSquare2.asset.meta
+* Assets/Art/TilemapPalettes/FloorBricksToGrassSquare3.asset
+* Assets/Art/TilemapPalettes/FloorBricksToGrassSquare3.asset.meta
+* Assets/Art/TilemapPalettes/FloorBricksToGrassSquare4.asset
+* Assets/Art/TilemapPalettes/FloorBricksToGrassSquare4.asset.meta
+* Assets/Art/TilemapPalettes/FloorBricksToGrassSquare5.asset
+* Assets/Art/TilemapPalettes/FloorBricksToGrassSquare5.asset.meta
+* Assets/Art/TilemapPalettes/FloorBricksToGrassSquare6.asset
+* Assets/Art/TilemapPalettes/FloorBricksToGrassSquare6.asset.meta
+* Assets/Art/TilemapPalettes/FloorBricksToGrassSquare7.asset
+* Assets/Art/TilemapPalettes/FloorBricksToGrassSquare7.asset.meta
+* Assets/Art/TilemapPalettes/FloorBricksToGrassSquare8.asset
+* Assets/Art/TilemapPalettes/FloorBricksToGrassSquare8.asset.meta
+* Assets/Art/TilemapPalettes/FloorGrassToBricksCorner0.asset
+* Assets/Art/TilemapPalettes/FloorGrassToBricksCorner0.asset.meta
+* Assets/Art/TilemapPalettes/FloorGrassToBricksCorner1.asset
+* Assets/Art/TilemapPalettes/FloorGrassToBricksCorner1.asset.meta
+* Assets/Art/TilemapPalettes/FloorGrassToBricksCorner2.asset
+* Assets/Art/TilemapPalettes/FloorGrassToBricksCorner2.asset.meta
+* Assets/Art/TilemapPalettes/FloorGrassToBricksCorner3.asset
+* Assets/Art/TilemapPalettes/FloorGrassToBricksCorner3.asset.meta
+* Assets/Art/TilemapPalettes/FloorGrassToBricksCorner4.asset
+* Assets/Art/TilemapPalettes/FloorGrassToBricksCorner4.asset.meta
+* Assets/Art/TilemapPalettes/FloorGrassToBricksCorner5.asset
+* Assets/Art/TilemapPalettes/FloorGrassToBricksCorner5.asset.meta
+* Assets/Art/TilemapPalettes/FloorGrassToBricksCorner6.asset
+* Assets/Art/TilemapPalettes/FloorGrassToBricksCorner6.asset.meta
+* Assets/Art/TilemapPalettes/FloorGrassToBricksCorner7.asset
+* Assets/Art/TilemapPalettes/FloorGrassToBricksCorner7.asset.meta
+* Assets/Art/TilemapPalettes/FloorGrassToBricksCorner8.asset
+* Assets/Art/TilemapPalettes/FloorGrassToBricksCorner8.asset.meta
+* Assets/Art/TilemapPalettes/FloorGrassToBricksSquare0.asset
+* Assets/Art/TilemapPalettes/FloorGrassToBricksSquare0.asset.meta
+* Assets/Art/TilemapPalettes/FloorGrassToBricksSquare1.asset
+* Assets/Art/TilemapPalettes/FloorGrassToBricksSquare1.asset.meta
+* Assets/Art/TilemapPalettes/FloorGrassToBricksSquare2.asset
+* Assets/Art/TilemapPalettes/FloorGrassToBricksSquare2.asset.meta
+* Assets/Art/TilemapPalettes/FloorGrassToBricksSquare3.asset
+* Assets/Art/TilemapPalettes/FloorGrassToBricksSquare3.asset.meta
+* Assets/Art/TilemapPalettes/FloorGrassToBricksSquare4.asset
+* Assets/Art/TilemapPalettes/FloorGrassToBricksSquare4.asset.meta
+* Assets/Art/TilemapPalettes/FloorGrassToBricksSquare5.asset
+* Assets/Art/TilemapPalettes/FloorGrassToBricksSquare5.asset.meta
+* Assets/Art/TilemapPalettes/FloorGrassToBricksSquare6.asset
+* Assets/Art/TilemapPalettes/FloorGrassToBricksSquare6.asset.meta
+* Assets/Art/TilemapPalettes/FloorGrassToBricksSquare7.asset
+* Assets/Art/TilemapPalettes/FloorGrassToBricksSquare7.asset.meta
+* Assets/Art/TilemapPalettes/FloorGrassToBricksSquare8.asset
+* Assets/Art/TilemapPalettes/FloorGrassToBricksSquare8.asset.meta
+* Assets/Art/TilemapPalettes/FloorPalette.prefab
+* Assets/Art/TilemapPalettes/FloorPalette.prefab.meta
+* Assets/Art/TilemapPalettes/FloorWaterRoundCorners0.asset
+* Assets/Art/TilemapPalettes/FloorWaterRoundCorners0.asset.meta
+* Assets/Art/TilemapPalettes/FloorWaterRoundCorners1.asset
+* Assets/Art/TilemapPalettes/FloorWaterRoundCorners1.asset.meta
+* Assets/Art/TilemapPalettes/FloorWaterRoundCorners2.asset
+* Assets/Art/TilemapPalettes/FloorWaterRoundCorners2.asset.meta
+* Assets/Art/TilemapPalettes/FloorWaterRoundCorners3.asset
+* Assets/Art/TilemapPalettes/FloorWaterRoundCorners3.asset.meta
+* Assets/Art/TilemapPalettes/FloorWaterRoundCorners4.asset
+* Assets/Art/TilemapPalettes/FloorWaterRoundCorners4.asset.meta
+* Assets/Art/TilemapPalettes/FloorWaterRoundCorners5.asset
+* Assets/Art/TilemapPalettes/FloorWaterRoundCorners5.asset.meta
+* Assets/Art/TilemapPalettes/FloorWaterRoundCorners6.asset
+* Assets/Art/TilemapPalettes/FloorWaterRoundCorners6.asset.meta
+* Assets/Art/TilemapPalettes/FloorWaterRoundCorners7.asset
+* Assets/Art/TilemapPalettes/FloorWaterRoundCorners7.asset.meta
+* Assets/Art/TilemapPalettes/FloorWaterRoundCorners8.asset
+* Assets/Art/TilemapPalettes/FloorWaterRoundCorners8.asset.meta
+* Assets/Art/TilemapPalettes/FloorWaterSquareCorners0.asset
+* Assets/Art/TilemapPalettes/FloorWaterSquareCorners0.asset.meta
+* Assets/Art/TilemapPalettes/FloorWaterSquareCorners1.asset
+* Assets/Art/TilemapPalettes/FloorWaterSquareCorners1.asset.meta
+* Assets/Art/TilemapPalettes/FloorWaterSquareCorners2.asset
+* Assets/Art/TilemapPalettes/FloorWaterSquareCorners2.asset.meta
+* Assets/Art/TilemapPalettes/FloorWaterSquareCorners3.asset
+* Assets/Art/TilemapPalettes/FloorWaterSquareCorners3.asset.meta
+* Assets/Art/TilemapPalettes/FloorWaterSquareCorners4.asset
+* Assets/Art/TilemapPalettes/FloorWaterSquareCorners4.asset.meta
+* Assets/Art/TilemapPalettes/FloorWaterSquareCorners5.asset
+* Assets/Art/TilemapPalettes/FloorWaterSquareCorners5.asset.meta
+* Assets/Art/TilemapPalettes/FloorWaterSquareCorners6.asset
+* Assets/Art/TilemapPalettes/FloorWaterSquareCorners6.asset.meta
+* Assets/Art/TilemapPalettes/FloorWaterSquareCorners7.asset
+* Assets/Art/TilemapPalettes/FloorWaterSquareCorners7.asset.meta
+* Assets/Art/TilemapPalettes/FloorWaterSquareCorners8.asset
+* Assets/Art/TilemapPalettes/FloorWaterSquareCorners8.asset.meta
+* Assets/Audio.meta
+* Assets/Audio/2D MUSIC LOOP.wav
+* Assets/Audio/2D MUSIC LOOP.wav.meta
+* Assets/Audio/Collectable.wav
+* Assets/Audio/Collectable.wav.meta
+* Assets/Audio/Footsteps2a.wav
+* Assets/Audio/Footsteps2a.wav.meta
+* Assets/Audio/Hit for enemy 1.wav
+* Assets/Audio/Hit for enemy 1.wav.meta
+* Assets/Audio/Hit for enemy 2.wav
+* Assets/Audio/Hit for enemy 2.wav.meta
+* Assets/Audio/Player Hit.wav
+* Assets/Audio/Player Hit.wav.meta
+* Assets/Audio/Quest Complete.wav
+* Assets/Audio/Quest Complete.wav.meta
+* Assets/Audio/Robot Fixed.wav
+* Assets/Audio/Robot Fixed.wav.meta
+* Assets/Audio/Robot Walking_Broken.wav
+* Assets/Audio/Robot Walking_Broken.wav.meta
+* Assets/Audio/Throw Cog.wav
+* Assets/Audio/Throw Cog.wav.meta
+* Assets/BotDown.anim
+* Assets/BotDown.anim.meta
+* Assets/BotLeft.anim
+* Assets/BotLeft.anim.meta
+* Assets/BotRight.anim
+* Assets/BotRight.anim.meta
+* Assets/BotSprite.controller
+* Assets/BotSprite.controller.meta
+* Assets/BotUp.anim
+* Assets/BotUp.anim.meta
+* Assets/BoxRight.anim
+* Assets/BoxRight.anim.meta
+* Assets/Bullet.cs
+* Assets/Bullet.cs.meta
+* Assets/Collected.cs
+* Assets/Collected.cs.meta
+* Assets/Demo.meta
+* Assets/Demo/DemoScene.unity
+* Assets/Demo/DemoScene.unity.meta
+* Assets/Gizmos.meta
+* Assets/Gizmos/Cinemachine.meta
+* Assets/Gizmos/Cinemachine/cm_logo_lg.png
+* Assets/Gizmos/Cinemachine/cm_logo_lg.png.meta
+* Assets/HitParticle Variant.prefab
+* Assets/HitParticle Variant.prefab.meta
+* Assets/InputSystem.inputsettings.asset
+* Assets/InputSystem.inputsettings.asset.meta
+* Assets/Level2Ruby.unity
+* Assets/Level2Ruby.unity.meta
+* Assets/NonPlayerCharacter.cs
+* Assets/NonPlayerCharacter.cs.meta
+* Assets/Prefabs.meta
+* Assets/Prefabs/BlueCube.prefab
+* Assets/Prefabs/BlueCube.prefab.meta
+* Assets/Prefabs/BotSprite.prefab
+* Assets/Prefabs/BotSprite.prefab.meta
+* Assets/Prefabs/Canvas.prefab
+* Assets/Prefabs/Canvas.prefab.meta
+* Assets/Prefabs/CollectibleHealth.prefab
+* Assets/Prefabs/CollectibleHealth.prefab.meta
+* Assets/Prefabs/Damageable 1.prefab
+* Assets/Prefabs/Damageable 1.prefab.meta
+* Assets/Prefabs/Damageable.prefab
+* Assets/Prefabs/Damageable.prefab.meta
+* Assets/Prefabs/Health.prefab
+* Assets/Prefabs/Health.prefab.meta
+* Assets/Prefabs/HitParticle.prefab
+* Assets/Prefabs/HitParticle.prefab.meta
+* Assets/Prefabs/House.prefab
+* Assets/Prefabs/House.prefab.meta
+* Assets/Prefabs/Jambi.prefab
+* Assets/Prefabs/Jambi.prefab.meta
+* Assets/Prefabs/MetalCube 1.prefab
+* Assets/Prefabs/MetalCube 1.prefab.meta
+* Assets/Prefabs/MetalCube.prefab
+* Assets/Prefabs/MetalCube.prefab.meta
+* Assets/Prefabs/PickupEffect.prefab
+* Assets/Prefabs/PickupEffect.prefab.meta
+* Assets/Prefabs/PowerUp.prefab
+* Assets/Prefabs/PowerUp.prefab.meta
+* Assets/Prefabs/Projectile.prefab
+* Assets/Prefabs/Projectile.prefab.meta
+* Assets/Prefabs/Ruby.prefab
+* Assets/Prefabs/Ruby.prefab.meta
+* Assets/Prefabs/RubySprite 1.prefab
+* Assets/Prefabs/RubySprite 1.prefab.meta
+* Assets/Prefabs/RubySprite.prefab
+* Assets/Prefabs/RubySprite.prefab.meta
+* Assets/Prefabs/SmokeEffect.prefab
+* Assets/Prefabs/SmokeEffect.prefab.meta
+* Assets/Prefabs/TelegraphPost.prefab
+* Assets/Prefabs/TelegraphPost.prefab.meta
+* Assets/Prefabs/TreeBig1.prefab
+* Assets/Prefabs/TreeBig1.prefab.meta
+* Assets/Prefabs/TreeBig2.prefab
+* Assets/Prefabs/TreeBig2.prefab.meta
+* Assets/Prefabs/TreeLittle.prefab
+* Assets/Prefabs/TreeLittle.prefab.meta
+* Assets/Projectile.cs
+* Assets/Projectile.cs.meta
+* Assets/Ruby's New AdventureInput.inputactions
+* Assets/Ruby's New AdventureInput.inputactions.meta
+* Assets/RubyTutorial2.unity
+* Assets/RubyTutorial2.unity.meta
+* Assets/Scenes.meta
+* Assets/Scenes/ExampleScene.unity
+* Assets/Scenes/ExampleScene.unity.meta
+* Assets/Scenes/Level2Ruby.unity
+* Assets/Scenes/Level2Ruby.unity.meta
+* Assets/Scenes/SampleScene.unity
+* Assets/Scenes/SampleScene.unity.meta
+* Assets/Scripts.meta
+* Assets/Scripts/BotFixed.anim
+* Assets/Scripts/BotFixed.anim.meta
+* Assets/Scripts/DamageZone.cs
+* Assets/Scripts/DamageZone.cs.meta
+* Assets/Scripts/Enemy.cs
+* Assets/Scripts/Enemy.cs.meta
+* Assets/Scripts/EnemyController.cs
+* Assets/Scripts/EnemyController.cs.meta
+* Assets/Scripts/Health.cs
+* Assets/Scripts/Health.cs.meta
+* Assets/Scripts/HealthController.cs
+* Assets/Scripts/HealthController.cs.meta
+* Assets/Scripts/RubyController.cs
+* Assets/Scripts/RubyController.cs.meta
+* Assets/Scripts/UI.meta
+* Assets/Scripts/UI/UIAmmoCount.cs
+* Assets/Scripts/UI/UIAmmoCount.cs.meta
+* Assets/Scripts/UI/UIDialogueBox.cs
+* Assets/Scripts/UI/UIDialogueBox.cs.meta
+* Assets/Scripts/UI/UIQuestDisplay.cs
+* Assets/Scripts/UI/UIQuestDisplay.cs.meta
+* Assets/Scripts/UIHealthBar.cs
+* Assets/Scripts/UIHealthBar.cs.meta
+* Assets/Sprites.meta
+* Assets/Sprites/BotSprite.png
+* Assets/Sprites/BotSprite.png.meta
+* Assets/Sprites/Damageable.png
+* Assets/Sprites/Damageable.png.meta
+* Assets/Sprites/Health.png
+* Assets/Sprites/Health.png.meta
+* Assets/Sprites/Materials.meta
+* Assets/Sprites/Materials/RubySprite.mat
+* Assets/Sprites/Materials/RubySprite.mat.meta
+* Assets/Sprites/RubySprite.png
+* Assets/Sprites/RubySprite.png.meta
+* Assets/StreamingAssets.meta
+* Assets/TextMesh Pro.meta
+* Assets/TextMesh Pro/Documentation.meta
+* Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf
+* Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf.meta
+* Assets/TextMesh Pro/Resources.meta
+* Assets/TextMesh Pro/Resources/Fonts & Materials.meta
+* Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat
+* Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat.meta
+* Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat
+* Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat.meta
+* Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+* Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset.meta
+* Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt
+* Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt.meta
+* Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt
+* Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt.meta
+* Assets/TextMesh Pro/Resources/Shaders.meta
+* Assets/TextMesh Pro/Resources/Shaders/TMP_Bitmap-Mobile.shader
+* Assets/TextMesh Pro/Resources/Shaders/TMP_Bitmap-Mobile.shader.meta
+* Assets/TextMesh Pro/Resources/Shaders/TMP_Bitmap.shader
+* Assets/TextMesh Pro/Resources/Shaders/TMP_Bitmap.shader.meta
+* Assets/TextMesh Pro/Resources/Shaders/TMP_SDF Overlay.shader
+* Assets/TextMesh Pro/Resources/Shaders/TMP_SDF Overlay.shader.meta
+* Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile Masking.shader
+* Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile Masking.shader.meta
+* Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile Overlay.shader
+* Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile Overlay.shader.meta
+* Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile.shader
+* Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile.shader.meta
+* Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Surface-Mobile.shader
+* Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Surface-Mobile.shader.meta
+* Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Surface.shader
+* Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Surface.shader.meta
+* Assets/TextMesh Pro/Resources/Shaders/TMP_SDF.shader
+* Assets/TextMesh Pro/Resources/Shaders/TMP_SDF.shader.meta
+* Assets/TextMesh Pro/Resources/Shaders/TMP_Sprite.shader
+* Assets/TextMesh Pro/Resources/Shaders/TMP_Sprite.shader.meta
+* Assets/TextMesh Pro/Resources/Shaders/TMPro.cginc
+* Assets/TextMesh Pro/Resources/Shaders/TMPro.cginc.meta
+* Assets/TextMesh Pro/Resources/Shaders/TMPro_Properties.cginc
+* Assets/TextMesh Pro/Resources/Shaders/TMPro_Properties.cginc.meta
+* Assets/TextMesh Pro/Resources/Shaders/TMPro_Surface.cginc
+* Assets/TextMesh Pro/Resources/Shaders/TMPro_Surface.cginc.meta
+* Assets/TextMesh Pro/Resources/Sprite Assets.meta
+* Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset
+* Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset.meta
+* Assets/TextMesh Pro/Resources/Style Sheets.meta
+* Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset
+* Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset.meta
+* Assets/TextMesh Pro/Resources/TMP Settings.asset
+* Assets/TextMesh Pro/Resources/TMP Settings.asset.meta
+* Assets/TextMesh Pro/Sprites.meta
+* Assets/TextMesh Pro/Sprites/EmojiOne.json
+* Assets/TextMesh Pro/Sprites/EmojiOne.json.meta
+* Assets/TextMesh Pro/Sprites/EmojiOne.png
+* Assets/TextMesh Pro/Sprites/EmojiOne.png.meta
+* Assets/Tiles.meta
+* Assets/Tiles/FirstTile.asset
+* Assets/Tiles/FirstTile.asset.meta
+* Assets/Tiles/FloorBricksToGrassSquare0.asset
+* Assets/Tiles/FloorBricksToGrassSquare0.asset.meta
+* Assets/Tiles/FloorBricksToGrassSquare1.asset
+* Assets/Tiles/FloorBricksToGrassSquare1.asset.meta
+* Assets/Tiles/FloorBricksToGrassSquare2.asset
+* Assets/Tiles/FloorBricksToGrassSquare2.asset.meta
+* Assets/Tiles/FloorBricksToGrassSquare3.asset
+* Assets/Tiles/FloorBricksToGrassSquare3.asset.meta
+* Assets/Tiles/FloorBricksToGrassSquare4.asset
+* Assets/Tiles/FloorBricksToGrassSquare4.asset.meta
+* Assets/Tiles/FloorBricksToGrassSquare5.asset
+* Assets/Tiles/FloorBricksToGrassSquare5.asset.meta
+* Assets/Tiles/FloorBricksToGrassSquare6.asset
+* Assets/Tiles/FloorBricksToGrassSquare6.asset.meta
+* Assets/Tiles/FloorBricksToGrassSquare7.asset
+* Assets/Tiles/FloorBricksToGrassSquare7.asset.meta
+* Assets/Tiles/FloorBricksToGrassSquare8.asset
+* Assets/Tiles/FloorBricksToGrassSquare8.asset.meta
+* Assets/Tiles/FloorGrassToBricksCorner_0.asset
+* Assets/Tiles/FloorGrassToBricksCorner_0.asset.meta
+* Assets/Tiles/FloorGrassToBricksCorner_1.asset
+* Assets/Tiles/FloorGrassToBricksCorner_1.asset.meta
+* Assets/Tiles/FloorGrassToBricksCorner_2.asset
+* Assets/Tiles/FloorGrassToBricksCorner_2.asset.meta
+* Assets/Tiles/FloorGrassToBricksCorner_3.asset
+* Assets/Tiles/FloorGrassToBricksCorner_3.asset.meta
+* Assets/Tiles/FloorGrassToBricksCorner_4.asset
+* Assets/Tiles/FloorGrassToBricksCorner_4.asset.meta
+* Assets/Tiles/FloorGrassToBricksCorner_5.asset
+* Assets/Tiles/FloorGrassToBricksCorner_5.asset.meta
+* Assets/Tiles/FloorGrassToBricksCorner_6.asset
+* Assets/Tiles/FloorGrassToBricksCorner_6.asset.meta
+* Assets/Tiles/FloorGrassToBricksCorner_7.asset
+* Assets/Tiles/FloorGrassToBricksCorner_7.asset.meta
+* Assets/Tiles/FloorGrassToBricksCorner_8.asset
+* Assets/Tiles/FloorGrassToBricksCorner_8.asset.meta
+* Assets/Tiles/FloorGrassToBricksSquare0.asset
+* Assets/Tiles/FloorGrassToBricksSquare0.asset.meta
+* Assets/Tiles/FloorGrassToBricksSquare1.asset
+* Assets/Tiles/FloorGrassToBricksSquare1.asset.meta
+* Assets/Tiles/FloorGrassToBricksSquare2.asset
+* Assets/Tiles/FloorGrassToBricksSquare2.asset.meta
+* Assets/Tiles/FloorGrassToBricksSquare3.asset
+* Assets/Tiles/FloorGrassToBricksSquare3.asset.meta
+* Assets/Tiles/FloorGrassToBricksSquare4.asset
+* Assets/Tiles/FloorGrassToBricksSquare4.asset.meta
+* Assets/Tiles/FloorGrassToBricksSquare5.asset
+* Assets/Tiles/FloorGrassToBricksSquare5.asset.meta
+* Assets/Tiles/FloorGrassToBricksSquare6.asset
+* Assets/Tiles/FloorGrassToBricksSquare6.asset.meta
+* Assets/Tiles/FloorGrassToBricksSquare7.asset
+* Assets/Tiles/FloorGrassToBricksSquare7.asset.meta
+* Assets/Tiles/FloorGrassToBricksSquare8.asset
+* Assets/Tiles/FloorGrassToBricksSquare8.asset.meta
+* Assets/Tiles/FloorWaterRoundCorners_0.asset
+* Assets/Tiles/FloorWaterRoundCorners_0.asset.meta
+* Assets/Tiles/FloorWaterRoundCorners_1.asset
+* Assets/Tiles/FloorWaterRoundCorners_1.asset.meta
+* Assets/Tiles/FloorWaterRoundCorners_2.asset
+* Assets/Tiles/FloorWaterRoundCorners_2.asset.meta
+* Assets/Tiles/FloorWaterRoundCorners_3.asset
+* Assets/Tiles/FloorWaterRoundCorners_3.asset.meta
+* Assets/Tiles/FloorWaterRoundCorners_4.asset
+* Assets/Tiles/FloorWaterRoundCorners_4.asset.meta
+* Assets/Tiles/FloorWaterRoundCorners_5.asset
+* Assets/Tiles/FloorWaterRoundCorners_5.asset.meta
+* Assets/Tiles/FloorWaterRoundCorners_6.asset
+* Assets/Tiles/FloorWaterRoundCorners_6.asset.meta
+* Assets/Tiles/FloorWaterRoundCorners_7.asset
+* Assets/Tiles/FloorWaterRoundCorners_7.asset.meta
+* Assets/Tiles/FloorWaterRoundCorners_8.asset
+* Assets/Tiles/FloorWaterRoundCorners_8.asset.meta
+* Assets/Tiles/Rectangular Palette.prefab
+* Assets/Tiles/Rectangular Palette.prefab.meta
+* Assets/Tiles/RubyTile - Copy.png
+* Assets/Tiles/RubyTile - Copy.png.meta
+* Assets/Tiles/RubyTile.asset
+* Assets/Tiles/RubyTile.asset.meta
+* Assets/Tiles/RubyTile.png
+* Assets/Tiles/RubyTile.png.meta
+* Assets/Unity 2021.3.5f1.lnk
+* Assets/Unity 2021.3.5f1.lnk.meta
+* MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll
+* MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll
+* MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser
+* MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx
+* MonoBleedingEdge/etc/mono/2.0/machine.config
+* MonoBleedingEdge/etc/mono/2.0/settings.map
+* MonoBleedingEdge/etc/mono/2.0/web.config
+* MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser
+* MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx
+* MonoBleedingEdge/etc/mono/4.0/machine.config
+* MonoBleedingEdge/etc/mono/4.0/settings.map
+* MonoBleedingEdge/etc/mono/4.0/web.config
+* MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser
+* MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx
+* MonoBleedingEdge/etc/mono/4.5/machine.config
+* MonoBleedingEdge/etc/mono/4.5/settings.map
+* MonoBleedingEdge/etc/mono/4.5/web.config
+* MonoBleedingEdge/etc/mono/browscap.ini
+* MonoBleedingEdge/etc/mono/config
+* MonoBleedingEdge/etc/mono/mconfig/config.xml
+* Packages/manifest.json
+* Packages/packages-lock.json
+* ProjectSettings/AudioManager.asset
+* ProjectSettings/BurstAotSettings_Android.json
+* ProjectSettings/BurstAotSettings_StandaloneWindows.json
+* ProjectSettings/BurstAotSettings_WSAPlayer.json
+* ProjectSettings/BurstAotSettings_WebGL.json
+* ProjectSettings/BurstAotSettings_iOS.json
+* ProjectSettings/BurstAotSettings_tvOS.json
+* ProjectSettings/ClusterInputManager.asset
+* ProjectSettings/CommonBurstAotSettings.json
+* ProjectSettings/DynamicsManager.asset
+* ProjectSettings/EditorBuildSettings.asset
+* ProjectSettings/EditorSettings.asset
+* ProjectSettings/GraphicsSettings.asset
+* ProjectSettings/InputManager.asset
+* ProjectSettings/MemorySettings.asset
+* ProjectSettings/NavMeshAreas.asset
+* ProjectSettings/NetworkManager.asset
+* ProjectSettings/PackageManagerSettings.asset
+* ProjectSettings/Physics2DSettings.asset
+* ProjectSettings/PresetManager.asset
+* ProjectSettings/ProjectSettings.asset
+* ProjectSettings/ProjectVersion.txt
+* ProjectSettings/ProjectVersion.txt.meta
+* ProjectSettings/QualitySettings.asset
+* ProjectSettings/SceneTemplateSettings.json
+* ProjectSettings/TagManager.asset
+* ProjectSettings/TimeManager.asset
+* ProjectSettings/TimelineSettings.asset
+* ProjectSettings/UnityConnectSettings.asset
+* ProjectSettings/VFXManager.asset
+* ProjectSettings/VersionControlSettings.asset
+* ProjectSettings/XRSettings.asset
+* ProjectSettings/boot.config
+* Ruby's New Adventure_BurstDebugInformation_DoNotShip/Data/Plugins/x86_64/lib_burst_generated.txt
+* Ruby's New Adventure_Data/Managed/Assembly-CSharp.dll
+* Ruby's New Adventure_Data/Managed/Mono.Security.dll
+* Ruby's New Adventure_Data/Managed/Newtonsoft.Json.dll
+* Ruby's New Adventure_Data/Managed/System.ComponentModel.Composition.dll
+* Ruby's New Adventure_Data/Managed/System.Configuration.dll
+* Ruby's New Adventure_Data/Managed/System.Core.dll
+* Ruby's New Adventure_Data/Managed/System.Data.DataSetExtensions.dll
+* Ruby's New Adventure_Data/Managed/System.Data.dll
+* Ruby's New Adventure_Data/Managed/System.Drawing.dll
+* Ruby's New Adventure_Data/Managed/System.EnterpriseServices.dll
+* Ruby's New Adventure_Data/Managed/System.IO.Compression.FileSystem.dll
+* Ruby's New Adventure_Data/Managed/System.IO.Compression.dll
+* Ruby's New Adventure_Data/Managed/System.Net.Http.dll
+* Ruby's New Adventure_Data/Managed/System.Numerics.dll
+* Ruby's New Adventure_Data/Managed/System.Runtime.Serialization.dll
+* Ruby's New Adventure_Data/Managed/System.Runtime.dll
+* Ruby's New Adventure_Data/Managed/System.Security.dll
+* Ruby's New Adventure_Data/Managed/System.ServiceModel.Internals.dll
+* Ruby's New Adventure_Data/Managed/System.Transactions.dll
+* Ruby's New Adventure_Data/Managed/System.Xml.Linq.dll
+* Ruby's New Adventure_Data/Managed/System.Xml.dll
+* Ruby's New Adventure_Data/Managed/System.dll
+* Ruby's New Adventure_Data/Managed/Unity.2D.Animation.Runtime.dll
+* Ruby's New Adventure_Data/Managed/Unity.2D.Common.Runtime.dll
+* Ruby's New Adventure_Data/Managed/Unity.2D.IK.Runtime.dll
+* Ruby's New Adventure_Data/Managed/Unity.2D.PixelPerfect.dll
+* Ruby's New Adventure_Data/Managed/Unity.2D.SpriteShape.Runtime.dll
+* Ruby's New Adventure_Data/Managed/Unity.2D.Tilemap.Extras.dll
+* Ruby's New Adventure_Data/Managed/Unity.Burst.Cecil.Mdb.dll
+* Ruby's New Adventure_Data/Managed/Unity.Burst.Cecil.Pdb.dll
+* Ruby's New Adventure_Data/Managed/Unity.Burst.Cecil.Rocks.dll
+* Ruby's New Adventure_Data/Managed/Unity.Burst.Cecil.dll
+* Ruby's New Adventure_Data/Managed/Unity.Burst.Unsafe.dll
+* Ruby's New Adventure_Data/Managed/Unity.Burst.dll
+* Ruby's New Adventure_Data/Managed/Unity.InternalAPIEngineBridge.001.dll
+* Ruby's New Adventure_Data/Managed/Unity.Mathematics.dll
+* Ruby's New Adventure_Data/Managed/Unity.Services.Core.Analytics.dll
+* Ruby's New Adventure_Data/Managed/Unity.Services.Core.Configuration.dll
+* Ruby's New Adventure_Data/Managed/Unity.Services.Core.Device.dll
+* Ruby's New Adventure_Data/Managed/Unity.Services.Core.Environments.Internal.dll
+* Ruby's New Adventure_Data/Managed/Unity.Services.Core.Environments.dll
+* Ruby's New Adventure_Data/Managed/Unity.Services.Core.Internal.dll
+* Ruby's New Adventure_Data/Managed/Unity.Services.Core.Networking.dll
+* Ruby's New Adventure_Data/Managed/Unity.Services.Core.Registration.dll
+* Ruby's New Adventure_Data/Managed/Unity.Services.Core.Scheduler.dll
+* Ruby's New Adventure_Data/Managed/Unity.Services.Core.Telemetry.dll
+* Ruby's New Adventure_Data/Managed/Unity.Services.Core.Threading.dll
+* Ruby's New Adventure_Data/Managed/Unity.Services.Core.dll
+* Ruby's New Adventure_Data/Managed/Unity.TextMeshPro.dll
+* Ruby's New Adventure_Data/Managed/Unity.Timeline.dll
+* Ruby's New Adventure_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll
+* Ruby's New Adventure_Data/Managed/Unity.VisualScripting.Core.dll
+* Ruby's New Adventure_Data/Managed/Unity.VisualScripting.Flow.dll
+* Ruby's New Adventure_Data/Managed/Unity.VisualScripting.State.dll
+* Ruby's New Adventure_Data/Managed/UnityEngine.AIModule.dll
+* Ruby's New Adventure_Data/Managed/UnityEngine.ARModule.dll
+* Ruby's New Adventure_Data/Managed/UnityEngine.AccessibilityModule.dll
+* Ruby's New Adventure_Data/Managed/UnityEngine.AndroidJNIModule.dll
+* Ruby's New Adventure_Data/Managed/UnityEngine.AnimationModule.dll
+* Ruby's New Adventure_Data/Managed/UnityEngine.AssetBundleModule.dll
+* Ruby's New Adventure_Data/Managed/UnityEngine.AudioModule.dll
+* Ruby's New Adventure_Data/Managed/UnityEngine.ClothModule.dll
+* Ruby's New Adventure_Data/Managed/UnityEngine.ClusterInputModule.dll
+* Ruby's New Adventure_Data/Managed/UnityEngine.ClusterRendererModule.dll
+* Ruby's New Adventure_Data/Managed/UnityEngine.CoreModule.dll
+* Ruby's New Adventure_Data/Managed/UnityEngine.CrashReportingModule.dll
+* Ruby's New Adventure_Data/Managed/UnityEngine.DSPGraphModule.dll
+* Ruby's New Adventure_Data/Managed/UnityEngine.DirectorModule.dll
+* Ruby's New Adventure_Data/Managed/UnityEngine.GIModule.dll
+* Ruby's New Adventure_Data/Managed/UnityEngine.GameCenterModule.dll
+* Ruby's New Adventure_Data/Managed/UnityEngine.GridModule.dll
+* Ruby's New Adventure_Data/Managed/UnityEngine.HotReloadModule.dll
+* Ruby's New Adventure_Data/Managed/UnityEngine.IMGUIModule.dll
+* Ruby's New Adventure_Data/Managed/UnityEngine.ImageConversionModule.dll
+* Ruby's New Adventure_Data/Managed/UnityEngine.InputLegacyModule.dll
+* Ruby's New Adventure_Data/Managed/UnityEngine.InputModule.dll
+* Ruby's New Adventure_Data/Managed/UnityEngine.JSONSerializeModule.dll
+* Ruby's New Adventure_Data/Managed/UnityEngine.LocalizationModule.dll
+* Ruby's New Adventure_Data/Managed/UnityEngine.NVIDIAModule.dll
+* Ruby's New Adventure_Data/Managed/UnityEngine.ParticleSystemModule.dll
+* Ruby's New Adventure_Data/Managed/UnityEngine.PerformanceReportingModule.dll
+* Ruby's New Adventure_Data/Managed/UnityEngine.Physics2DModule.dll
+* Ruby's New Adventure_Data/Managed/UnityEngine.PhysicsModule.dll
+* Ruby's New Adventure_Data/Managed/UnityEngine.ProfilerModule.dll
+* Ruby's New Adventure_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll
+* Ruby's New Adventure_Data/Managed/UnityEngine.ScreenCaptureModule.dll
+* Ruby's New Adventure_Data/Managed/UnityEngine.SharedInternalsModule.dll
+* Ruby's New Adventure_Data/Managed/UnityEngine.SpriteMaskModule.dll
+* Ruby's New Adventure_Data/Managed/UnityEngine.SpriteShapeModule.dll
+* Ruby's New Adventure_Data/Managed/UnityEngine.StreamingModule.dll
+* Ruby's New Adventure_Data/Managed/UnityEngine.SubstanceModule.dll
+* Ruby's New Adventure_Data/Managed/UnityEngine.SubsystemsModule.dll
+* Ruby's New Adventure_Data/Managed/UnityEngine.TLSModule.dll
+* Ruby's New Adventure_Data/Managed/UnityEngine.TerrainModule.dll
+* Ruby's New Adventure_Data/Managed/UnityEngine.TerrainPhysicsModule.dll
+* Ruby's New Adventure_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll
+* Ruby's New Adventure_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll
+* Ruby's New Adventure_Data/Managed/UnityEngine.TextRenderingModule.dll
+* Ruby's New Adventure_Data/Managed/UnityEngine.TilemapModule.dll
+* Ruby's New Adventure_Data/Managed/UnityEngine.UI.dll
+* Ruby's New Adventure_Data/Managed/UnityEngine.UIElementsModule.dll
+* Ruby's New Adventure_Data/Managed/UnityEngine.UIElementsNativeModule.dll
+* Ruby's New Adventure_Data/Managed/UnityEngine.UIModule.dll
+* Ruby's New Adventure_Data/Managed/UnityEngine.UNETModule.dll
+* Ruby's New Adventure_Data/Managed/UnityEngine.UmbraModule.dll
+* Ruby's New Adventure_Data/Managed/UnityEngine.UnityAnalyticsModule.dll
+* Ruby's New Adventure_Data/Managed/UnityEngine.UnityConnectModule.dll
+* Ruby's New Adventure_Data/Managed/UnityEngine.UnityCurlModule.dll
+* Ruby's New Adventure_Data/Managed/UnityEngine.UnityTestProtocolModule.dll
+* Ruby's New Adventure_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll
+* Ruby's New Adventure_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll
+* Ruby's New Adventure_Data/Managed/UnityEngine.UnityWebRequestModule.dll
+* Ruby's New Adventure_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll
+* Ruby's New Adventure_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll
+* Ruby's New Adventure_Data/Managed/UnityEngine.VFXModule.dll
+* Ruby's New Adventure_Data/Managed/UnityEngine.VRModule.dll
+* Ruby's New Adventure_Data/Managed/UnityEngine.VehiclesModule.dll
+* Ruby's New Adventure_Data/Managed/UnityEngine.VideoModule.dll
+* Ruby's New Adventure_Data/Managed/UnityEngine.VirtualTexturingModule.dll
+* Ruby's New Adventure_Data/Managed/UnityEngine.WindModule.dll
+* Ruby's New Adventure_Data/Managed/UnityEngine.XRModule.dll
+* Ruby's New Adventure_Data/Managed/UnityEngine.dll
+* Ruby's New Adventure_Data/Managed/mscorlib.dll
+* Ruby's New Adventure_Data/Managed/netstandard.dll
+* Ruby's New Adventure_Data/Plugins/x86_64/lib_burst_generated.dll
+* Ruby's New Adventure_Data/Resources/unity default resources
+* Ruby's New Adventure_Data/Resources/unity_builtin_extra
+* Ruby's New Adventure_Data/RuntimeInitializeOnLoads.json
+* Ruby's New Adventure_Data/ScriptingAssemblies.json
+* Ruby's New Adventure_Data/StreamingAssets/UnityServicesProjectConfiguration.json
+* Ruby's New Adventure_Data/app.info
+* Ruby's New Adventure_Data/boot.config
+* Ruby's New Adventure_Data/globalgamemanagers
+* Ruby's New Adventure_Data/globalgamemanagers.assets
+* Ruby's New Adventure_Data/level0
+* Ruby's New Adventure_Data/sharedassets0.assets
+* Ruby's New Adventure_Data/sharedassets0.assets.resS
+* UserSettings/EditorUserSettings.asset
+* UserSettings/Layouts/CurrentMaximizeLayout.dwlt
+* UserSettings/Layouts/default-2021.dwlt
+* UserSettings/Search.index
+* UserSettings/Search.settings
+
+
+Deleted files:
+
+
+Renamed files:
